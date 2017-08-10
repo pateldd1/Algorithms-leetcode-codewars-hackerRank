@@ -1,4 +1,4 @@
-Simplifying Multilinear polynomials - 4Kyu
+# Simplifying Multilinear polynomials - 4Kyu
 
 def simplify(a)
   a = "+" + a unless ["+","-"].include?(a[0])
