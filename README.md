@@ -12,3 +12,7 @@ Currently Solutions Include:
 * Alphabetic Anagrams - 3Kyu
 * Escape the Mines - 3Kyu
 * Simplifying Multilinear Polynomials - 4Kyu
+* Rail Fence Cipher - 3Kyu
+* N-Parasitic Numbers ending in N - 3Kyu
+* Validating Sudoku of Size NxN - 4Kyu
+* Reverse Polish Notation Calculator - 4Kyu
