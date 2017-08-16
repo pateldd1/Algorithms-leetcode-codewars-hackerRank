@@ -98,3 +98,5 @@ def spiralize(size)
   board.create_spiral
   board.grid
 end
+
+# d
