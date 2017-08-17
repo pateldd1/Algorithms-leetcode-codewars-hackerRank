@@ -16,3 +16,7 @@ Currently Solutions Include:
 * N-Parasitic Numbers ending in N - 3Kyu
 * Validating Sudoku of Size NxN - 4Kyu
 * Reverse Polish Notation Calculator - 4Kyu
+* Exponentials as Fractions - 4Kyu
+* Rail Fence Cipher - 3Kyu
+* Range Extraction - 4Kyu
+* Base Conversion - 4Kyu
