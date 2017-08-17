@@ -106,3 +106,4 @@ end
 def solve(minemap, miner, finish)
   Maze.new(minemap.transpose,miner.values.reverse,finish.values.reverse).create_maze_solution
 end
+# d
