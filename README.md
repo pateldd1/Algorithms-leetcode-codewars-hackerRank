@@ -22,3 +22,5 @@ Currently Solutions Include:
 * Base Conversion - 4Kyu
 * Unflatten a list (Harder than easy) - 4Kyu
 * Roman Numerals Encoder - 4Kyu
+* Pascal's Triangle - 4Kyu
+* Middle Permutation - 4Kyu
