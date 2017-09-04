@@ -24,3 +24,4 @@ Currently Solutions Include:
 * Roman Numerals Encoder - 4Kyu
 * Pascal's Triangle - 4Kyu
 * Middle Permutation - 4Kyu
+* How Many Numbers III - 4Kyu
