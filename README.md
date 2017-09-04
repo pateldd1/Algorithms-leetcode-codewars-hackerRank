@@ -20,3 +20,5 @@ Currently Solutions Include:
 * Rail Fence Cipher - 3Kyu
 * Range Extraction - 4Kyu
 * Base Conversion - 4Kyu
+* Unflatten a list (Harder than easy) - 4Kyu
+* Roman Numerals Encoder - 4Kyu
