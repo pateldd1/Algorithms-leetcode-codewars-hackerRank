@@ -25,3 +25,11 @@ Currently Solutions Include:
 * Pascal's Triangle - 4Kyu
 * Middle Permutation - 4Kyu
 * How Many Numbers III - 4Kyu
+
+
+Extra_recursion_probs (not codewars)
+* Make Better Change
+* Eight Queens
+* Permutations
+* subsets
+* etc.
