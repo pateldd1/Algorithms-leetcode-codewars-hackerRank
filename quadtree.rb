@@ -26,6 +26,28 @@ class Quadtree
         end
         return current
     end
+
+    def find(point)
+        current = @root
+        search(current, point)
+    end
+
+    def search(current, point)
+        loop do
+            case current.which_quadrant(point)
+                when 'ne'
+                    current = current.neq
+                when 'se'
+                    current = current.seq
+                when 'sw'
+                    current = current.swq
+                when 'nw'
+                    current = current.nwq
+            end
+            return false if !current
+            return true if current.contained_point == point
+        end
+    end
 end
 
 class Quadrant
@@ -107,5 +129,16 @@ quadtree = Quadtree.new(root)
 
 quadtree.insertion([1,5])
 quadtree.insertion([1,6])
+quadtree.insertion([1,7])
+quadtree.insertion([1,8])
 quadtree.insertion([60,30])
+quadtree.insertion([60,40])
+quadtree.insertion([60,60])
+quadtree.insertion([80,2])
+quadtree.insertion([80,30])
 p quadtree.root
+p quadtree.find([1,6])
+p quadtree.find([60,40])
+p quadtree.find([60,2])
+p quadtree.find([80,2])
+p quadtree.find([1,6])
