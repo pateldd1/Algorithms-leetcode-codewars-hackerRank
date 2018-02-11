@@ -1,6 +1,6 @@
-## These are Codewars Solutions to 2 - 4 Kyu Katas in Ruby.
+## These are Algorithms in Ruby and SQL probs as well.
 
-Currently Solutions Include:
+Codewars:
 * Make a Spiral - 3Kyu
 * Twice Linear - 4Kyu
 * Evaluate Mathematical Expression - 2Kyu
@@ -27,7 +27,7 @@ Currently Solutions Include:
 * How Many Numbers III - 4Kyu
 
 
-Extra_recursion_probs (not codewars)
+Extra_recursion_probs
 * Make Better Change
 * Eight Queens
 * Permutations
