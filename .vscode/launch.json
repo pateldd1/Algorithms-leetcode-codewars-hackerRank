@@ -9,7 +9,7 @@
             "type": "Ruby",
             "request": "launch",
             "cwd": "${workspaceRoot}",
-            "program": "${workspaceRoot}/leetCode/accounts_merge.rb"
+            "program": "${workspaceRoot}/hackerRank/the_coin_change_problem.rb"
         },
         {
             "name": "Listen for rdebug-ide",
