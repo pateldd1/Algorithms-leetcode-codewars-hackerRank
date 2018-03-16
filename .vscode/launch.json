@@ -9,7 +9,7 @@
             "type": "Ruby",
             "request": "launch",
             "cwd": "${workspaceRoot}",
-            "program": "${workspaceRoot}/hackerRank/game_of_two_stacks.rb"
+            "program": "${workspaceRoot}/leetCode/wiggle_sort.rb"
         },
         {
             "name": "Listen for rdebug-ide",
